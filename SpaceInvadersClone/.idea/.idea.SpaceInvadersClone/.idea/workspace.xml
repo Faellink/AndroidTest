@@ -13,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Assets/Scripts/Weapons/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Assets/Scripts/Player/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Assets/Scripts/Enemies/EnemyGroup.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1ySvdjojwDz2mTCTFuJA5CKyAE0" />
   <component name="ProjectViewState">
@@ -57,6 +58,7 @@
       <updated>1632257997878</updated>
       <workItem from="1632258208620" duration="258000" />
       <workItem from="1632259068695" duration="2461000" />
+      <workItem from="1632336355633" duration="1815000" />
     </task>
     <servers />
   </component>
