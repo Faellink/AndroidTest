@@ -11,6 +11,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Assets/Scripts/OutOfBounds.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Assets/Scripts/Pooling.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Assets/Scripts/Weapons/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Assets/Scripts/Player/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Assets/Scripts/Enemies/EnemyGroup.cs" root0="FORCE_HIGHLIGHTING" />
@@ -59,6 +61,9 @@
       <workItem from="1632258208620" duration="258000" />
       <workItem from="1632259068695" duration="2461000" />
       <workItem from="1632336355633" duration="3620000" />
+      <workItem from="1632425586468" duration="643000" />
+      <workItem from="1632426598628" duration="1855000" />
+      <workItem from="1632765984164" duration="4270000" />
     </task>
     <servers />
   </component>

@@ -40,13 +40,21 @@ public class PlayerController : MonoBehaviour
 
     void PlayerShoot()
     {
-        
-        
+
+        GameObject bullet = ObjectPooling.SharedInstance.GetPooledObject();
         
         if (Input.GetKey(KeyCode.Space) && Time.time > timeToShoot)
         {
             timeToShoot = Time.time + fireRate;
-            Instantiate(bulletPrefab, shooter.position, Quaternion.identity);
+            //Instantiate(bulletPrefab, shooter.position, Quaternion.identity);
+            if (bullet!= null)
+            {
+                bullet.transform.position = shooter.position;
+                bullet.SetActive(true);
+            }
+            
         }
+        
+        
     }
 }
